@@ -80,9 +80,6 @@ Os recursos poderão ser atualizados conforme a evolução das tecnologias de In
 ```text
 📁 materiais/
 📁 atividades/
-📁 exercícios/
-📁 projetos/
-📁 anotações/
 README.md
 ```
 
