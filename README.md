@@ -1,0 +1,1 @@
+# Tendencia_Ciencia_Computacao_2026_Kadidja
