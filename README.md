@@ -78,8 +78,11 @@ Os recursos poderão ser atualizados conforme a evolução das tecnologias de In
 ## 📂 Estrutura do Repositório
 
 ```text
-📁 materiais/
-📁 atividades/
+📁 Jornada/
+📁 Unidade 1/
+📁 Unidade 2/
+📁 Unidade 3/
+📁 Unidade 4/
 README.md
 ```
 
