@@ -1,0 +1,121 @@
+# ETAPA 01 - Definir Problemas
+
+## Problema: Elaborar perguntas para uma prova
+
+**Contexto:** Eu terei uma prova de Banco de Dados SQL e preciso estudar para sair bem na prova a professora disse que terá questões faceis, medias e dificeis.
+
+**Objetivo:** Faça 10 questões de multipla escolha, sendo de A até E, e no final mostre qual a resposta correta e o motivo para ela estar correta
+
+---
+
+# ETAPA 02 - Criar Prompt Inicial
+
+## Prompt Usado
+
+> Elaborar perguntas para uma prova
+
+## Resposta da IA
+
+> Para que eu possa elaborar as perguntas ideais para a sua prova, por favor me informe:
+>
+> Qual é o assunto ou matéria? (Ex: História do Brasil, Álgebra Linear, Biologia Celular, etc.)
+>
+> Qual é o nível dos alunos? (Ex: Ensino Fundamental, Ensino Médio, Faculdade/Concurso)
+>
+> Quantas perguntas você gostaria e qual o formato? (Ex: 5 questões de múltipla escolha ou dissertativas)
+
+## Pontos Positivo
+
+Me enviou um texto interativo com as questões e assim que marcava a alternativa ja me mostrava a correta e a errada
+
+## Problema Encontrado
+
+Queria apenas o texto com as perguntas e respostas, mas ele me deu uma interação, apesar de não ser um problema grande não foi o que foi pedido, e ele nem perguntou sobre essa questão interativa
+
+---
+
+# ETAPA 03 - Analise a Resposta
+
+| Questão                                           | Resposta                                               |
+| ------------------------------------------------- | ------------------------------------------------------ |
+| A resposta atendeu ao objetivo?                   | Sim                                                    |
+| A resposta foi clara?                             | Sim                                                    |
+| O que ficou faltando?                             | Não                                                    |
+| O que poderia ser melhorado?                      | A forma de apresentar as questões de gabarito          |
+| Existem informações que precisam ser verificadas? | Sim, algumas respostas podem estar erradas ou confusas |
+| A IA fez alguma suposição inadequada?             | Não                                                    |
+
+---
+
+# ETAPA 04 - Construa o prompt refinado
+
+## PAPEL:
+
+* Imagine ser um professor de Laboratorio de Banco de Dados
+
+## CONTEXTO:
+
+* Estou aplicando uma prova sobre SQL e Banco de dados e meus alunos estão iniciando agora e ainda não conhecem é apenas para mostrar e testar eles
+
+## OBJETIVO:
+
+* Criar uma prova simples sobre SQL e Banco de Dados
+
+## TAREFA:
+
+* Elabore uma prova de 10 questões simples
+
+## RESTRIÇÕES:
+
+* Não faça questões complexas
+* Inclua Teoria e Pratica
+* Nivel Facíl
+
+## FORMATO:
+
+* Apresente em forma de texto o número da questão, enunciado da questão e 5 alternativas, sendo A,B,C,D e E e depois coloque o gabarito da questão
+
+## CRITÉRIOS DE QUALIDADE:
+
+* A prova deve apresentar progressão de dificuldade e ser realista com pessoas iniciantes na parte de Banco de Dados
+
+---
+
+# ETAPA 05 - Comparação
+
+| Critério    | Prompt A | Prompt B |
+| ----------- | -------- | -------- |
+| Clareza     | Sim      | Sim      |
+| Contexto    | Sim      | Não      |
+| Relevância  | Sim      | Sim      |
+| Organização | Sim      | Não      |
+| Precisão    | Sim      | Não      |
+| Utilidade   | Sim      | Não      |
+
+## Qual Prompt produziu o resultado mais adequeado? Porque?
+
+* O 2 prompt que foi definido o papel e separado, foi ligeiramente mais fácil e mais organizado do que o prompt apenas jogando as perguntas
+
+---
+
+# ETAPA 06 - Teste de Robustez
+
+## Versão A
+
+Faça uma prova para Iniciantes
+
+## Versão B
+
+Faça uma prova para estudantes de uma faculdade de 4 semestre
+
+## O que mudou na resposta?
+
+* A prova ficou muito mais complexa, em um nivel muito maior do que o esperado
+
+## Por que acreditamos que mudou?
+
+* Pelas perguntas feitas
+
+## A alteração melhorou ou piorou o resultado?
+
+* Melhorou para o aprendizado
